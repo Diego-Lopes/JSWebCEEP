@@ -1,2 +1,2 @@
 <h1>Projeto CEEP</h1>
-<img src="./semTitulo.png"/>
+<img src="./assets/img/semTitulo.png"/>
